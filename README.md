@@ -1,6 +1,6 @@
-# Snake Game Project
+# 🐍 Snake Game Project
 
-## Introduction
+## 🎮 Features
 
 The project is a rendition of the classic Snake game, a beloved video game that has entertained gamers for many years. In this game, the player maneuvers a snake with the arrow keys. The objective is to guide the snake to eat apples that appear at random locations on the screen. Each time the snake eats an apple, it grows in length. The game ends when the snake's head collides with the border of the screen or with its own body.
 
@@ -10,14 +10,14 @@ This project utilizes various programming skills, including:
 - Managing code across multiple files
 - Implementing objects and classes
 
-## What It Should Look Like
+## 🎮 What It Should Look Like
 
 The game uses text graphics to render the screen:
 - Walls of the room are represented by '#'
 - The snake is represented by '+' and an arrow ('>' for right, '<' for left, '^' for up, 'v' for down) for the head
 - The apple is represented by a red and green asterisk '*'
 
-## Components and Files
+## 🧑‍💻 Components and Files
 
 ### 1. gui.py
 This file provides a simplified interface for text graphics using the `ncurses` library. It includes methods for:
@@ -68,6 +68,6 @@ This class represents an (x, y) position on the screen. It includes methods to d
 - Determine if positions collide with other objects.
 
 
-## Conclusion
+## ✨ Conclusion
 
 This Snake game project combines various programming concepts and provides a fun and interactive way to apply what you have learned. Enjoy building and playing your version of the classic Snake game!
