@@ -67,7 +67,3 @@ This class represents an (x, y) position on the screen. It includes methods to d
 - Represent positions on the screen.
 - Determine if positions collide with other objects.
 
-
-## ✨ Conclusion
-
-This Snake game project combines various programming concepts and provides a fun and interactive way to apply what you have learned. Enjoy building and playing your version of the classic Snake game!
